@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    deprecated_member_use: ignore
+
+linter:
+  rules:
+    always_declare_return_types: true
+    always_specify_types: true
+    always_use_package_imports: true
+    prefer_single_quotes: true
