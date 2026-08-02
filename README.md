@@ -2,7 +2,7 @@
  
 Convertisseur et Jeux Code Morse: Application Flutter de conversion et d'apprentissage du code Morse (gestion des caractères accentués incluse)
 
-Fonctionnalités
+***Fonctionnalités***
 
 - Texte vers Morse : Saisie de texte et conversion au clic sur le bouton.  
 - Morse vers Texte : Saisie dynamique du code Morse en fonction de la durée d'appui (GestureDetector / onTapDown et onTapUp).  
@@ -10,7 +10,7 @@ Fonctionnalités
 - Jeu Caractère vers Morse : Propose un caractère aléatoire, composition du code avec les boutons . et -.
 
   
-UX/UI et Architecture
+***UX/UI et Architecture***
 
 - Interface : Implémentation fidèle des maquettes Sketch (écrans Convertisseur et Jeux).  
 - Design System : Utilisation stricte de la charte graphique fournie (AppColors, AppIcons, AppLocalizations).  
